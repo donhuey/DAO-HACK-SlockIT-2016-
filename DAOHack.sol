@@ -6,7 +6,7 @@ DAO HACK by Don Huey
 *******************************************************************************************************************
 Purpose:
 
-The purpose of this exercise is to replicate the functions that caused the DAO hack that occured 
+The purpose of this exercise is to replicate the functions that caused the DAO hack that occurred 
 in 2016 against the SlockIt developed DAO.
 
 *******************************************************************************************************************
@@ -16,7 +16,7 @@ Below is a smart contract that will act as a fund raiser where people can submit
 but also withdraw funds at their leisure.
 
 This smart contract will contain a withdraw function that will contain the recursive reentracny
-vulnerability perfromed on the DAO
+vulnerability performed on the DAO
 *******************************************************************************************************************
 Attacker:
 
